@@ -1,5 +1,22 @@
 # 💫 About Me:
-I am a dedicated Computer Science student with a strong foundation in programming, algorithms, and software development. Passionate about learning new technologies and applying theoretical knowledge to real-world applications, I am eager to grow and contribute to innovative projects.
+👋 Hello, I'm Khushkaran!
+
+💻 I'm a third-year Computer Science student passionate about technology and its endless possibilities. My journey in computer science combines both theoretical learning and hands-on experience, as I continuously explore new programming languages, algorithms, and development tools.
+
+🚀 My key areas of interest include:
+
+Software Development: I enjoy building efficient, user-friendly applications and tackling complex coding challenges.
+Data Science: Extracting meaningful insights from data and making data-driven decisions fascinates me.
+Web Development: I love creating functional and visually appealing web applications.
+
+🌱 Currently, I'm studying at Toronto Metropolitan University, working on exciting projects, collaborating with talented peers, and participating in hackathons to enhance my technical skills.
+
+💡 Beyond academics, I stay updated on the latest tech trends, engage in personal coding projects, and actively seek opportunities to grow.
+
+🌏 My goal is to contribute to the tech industry by solving real-world problems and making a positive impact. I'm always open to new opportunities, collaborations, and discussions with fellow tech enthusiasts.
+
+📫 Let’s connect! Feel free to reach out via LinkedIn messages or at khushkaran.brar@torontomu.ca.
+
 
 
 ## 🌐 Socials:
